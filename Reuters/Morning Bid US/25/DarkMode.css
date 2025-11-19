@@ -104,12 +104,6 @@ header img {
     margin: auto;
     width: 40%;
 }
-.himg3 {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0;
-    width: 3%;
-}
 /*
 header p {
     margin: 3px 0;
@@ -135,6 +129,12 @@ header li {
 img {
     margin: 1px 0;
     width: 100%;
+}
+.img3 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    width: 3%;
 }
 .img25 {
     margin-left: auto;
