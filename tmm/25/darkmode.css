@@ -169,6 +169,7 @@ img {
     background-color: rgb(24, 24, 24);
     width: fit-content;
     padding: 5px;
+    border-radius: 10px;
 }
 main {
     margin: auto;
